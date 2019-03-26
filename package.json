@@ -1,0 +1,20 @@
+{
+  "name": "task_manager_api",
+  "version": "1.0.0",
+  "description": "a nodeJS based task manager api, developed as the first RESTful API by Juned Raghib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juned Raghib",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.0",
+    "mongoose": "^5.3.16",
+    "multer": "^1.4.1",
+    "validator": "^10.9.0"
+  }
+}
